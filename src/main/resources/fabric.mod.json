@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "fastbuild",
+  "version": "${version}",
+  "name": "FastBuild",
+  "description": "FastBuild + FallProtect (ported to 1.21.11 / Fabric)",
+  "authors": ["kapiteon"],
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.kapiteon.fastbuild.FastBuildClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

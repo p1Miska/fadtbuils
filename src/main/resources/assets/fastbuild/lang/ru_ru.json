@@ -1,0 +1,7 @@
+{
+  "key.categories.fastbuild": "FastBuild",
+  "key.fastbuild.enable": "Включить (Вкл/Выкл)",
+  "key.fastbuild.showhud": "Показать HUD (Вкл/Выкл)",
+  "key.fastbuild.horizontal": "Горизонталь (Вкл/Выкл)",
+  "key.fastbuild.fallprotect": "Защита от падения (Вкл/Выкл)"
+}

@@ -1,0 +1,7 @@
+{
+  "key.categories.fastbuild": "FastBuild",
+  "key.fastbuild.enable": "Enable (On/Off)",
+  "key.fastbuild.showhud": "ShowHud (On/Off)",
+  "key.fastbuild.horizontal": "Horizontal (On/Off)",
+  "key.fastbuild.fallprotect": "Fall protect (On/Off)"
+}
